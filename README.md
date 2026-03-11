@@ -1,4 +1,5 @@
 **Master Dissertation: Backtesting Bootstrap Value-at-Risk and Expected Shortfall estimates in GARCH models**
+
 https://repositorio-aberto.up.pt/bitstream/10216/76673/2/32777.pdf
 
 **data_sample.R:** Data wrangling and analysis  
