@@ -1,4 +1,4 @@
-**Master Dissertation: Backtesting Bootstrap Value-at-Risk and Expected Shortfall estimates in GARCH models**
+**Master Dissertation (2014): Backtesting Bootstrap Value-at-Risk and Expected Shortfall estimates in GARCH models**
 
 Original R code for my master dissertation on financial time series and volatility modeling.
 This repository is kept as an archive of the original academic work.
